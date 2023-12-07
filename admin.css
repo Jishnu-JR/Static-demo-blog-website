@@ -20,8 +20,7 @@ form{
    background-color: rgba(0,0,0,0.5);
  
  margin: 10% 8% 0% 8%;
- max-width: 100%;
-
+ 
 }
 #uname,#pswd{
     padding: 2%;

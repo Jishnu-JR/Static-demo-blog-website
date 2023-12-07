@@ -1,0 +1,42 @@
+.navbar .navbar-nav .nav-item{
+    color:white;
+   
+}
+.navbar .navbar-nav .nav-item:hover{
+    color:black;
+}
+#about{
+    background-color:#ff7e67;
+}
+.Services{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    
+}
+.sec1{
+    background-color:#bcdbdf;
+}
+.sec2{
+    background-color:#bcdbdf ;
+}
+#suggest{
+    width: 40%;
+   padding: 3%;
+   
+}
+.footer{
+    background-color: #a5bdfd;
+}
+.head01{
+    font-family:  Georgia, 'Times New Roman', Times, serif;
+}
+.secondlast{
+    background-color: #005689;
+}
+.fa-brands,.fa-solid{
+    margin-left: 7%;
+}
+.favbar .fav-items .fav{
+    color: black;
+}

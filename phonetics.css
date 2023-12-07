@@ -1,0 +1,45 @@
+.navbar .navbar-nav .nav-item{
+    color:white;
+   
+}
+.navbar .navbar-nav .nav-item:hover{
+    color:black;
+}
+.phonetics-sec1{
+    background-color: #faf5e4;
+   
+   padding-bottom: 30%;
+}
+#img1{
+    width: 300px;
+    height: 300px;
+    border-radius: 70%;
+}
+
+
+.sec1{
+    background-color: #d5eeff;
+    padding: 5%;
+}
+#sec1-para{
+    font-weight: bolder;
+    color: black;
+
+}
+.sec2{
+    background-color: #83cee0;
+    padding: 3%;
+}
+#art1{
+    border-radius: 70%;
+}
+.row{
+    background-color: aliceblue;
+}
+.sec-4{
+    background-color: #83cee0;
+    padding: 2%;
+}
+.row-1{
+    background-color:#83cee0 ;
+}

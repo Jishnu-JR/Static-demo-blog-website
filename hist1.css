@@ -1,0 +1,51 @@
+.navbar .navbar-nav .nav-item{
+    color:white;
+   
+}
+.navbar .navbar-nav .nav-item:hover{
+    color:black;
+}
+#p1,#p2 {
+    font-style: italic;
+    font-weight: bolder;
+}
+#img1,#img2,#img3,#img4{
+    border-radius: 50%;
+}
+#section1{
+    background-color:#ffe9e3 ;
+}
+.rowf{
+    background-color: #e4f1fe;
+}
+.section2{
+    background-color: #ebd5d5;
+ 
+   
+}
+.head2{
+    color: #4f3b78;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+#art1{
+    border-radius: 70%;
+}
+#art1-head{
+    text-decoration: none;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    text-align: justify;
+  
+}
+#seclastrow{
+    background-color: #f1f1f1;
+}
+.foot{
+    background-color: #4f7097;
+}
+.sec-4{
+    background-color: #ebd5d5;
+}

@@ -6,10 +6,10 @@
     color:black;
 }
 #section-form{
-    height: 700px;
+    height: 900px;
     background-image: url('pexels-james-wheeler-417074.jpg');
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
     
 }
 form{
@@ -19,7 +19,8 @@ form{
     margin-top: 10%;
    background-color: rgba(0,0,0,0.5);
  
- margin: 15% 8% 0% 8%;
+ margin: 10% 8% 0% 8%;
+ max-width: 100%;
 
 }
 #uname,#pswd{

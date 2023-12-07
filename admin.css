@@ -9,17 +9,18 @@
     height: 900px;
     background-image: url('pexels-james-wheeler-417074.jpg');
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
     
 }
 form{
  
     text-align: center;
     padding: 8%;
-    margin-top: 6%;
+    margin-top: 10%;
    background-color: rgba(0,0,0,0.5);
  
- margin: 8% 8% 0% 8%;
+ margin: 10% 8% 0% 8%;
+ max-width: 100%;
 
 }
 #uname,#pswd{
